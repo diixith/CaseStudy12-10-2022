@@ -9,7 +9,7 @@
 </head>
 <body>
 	<div align="center">
-		<h1 style="color: red">
+		<h1 style="color: blue">
 <u> <i>Share price updation for ${company.companyId}</i> </u>
 </h1>
 <form:form action="shareEdit" method="post" modelAttribute="shareRecord">
